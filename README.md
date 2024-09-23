@@ -1,4 +1,4 @@
-<h1 align="left">hey 👋!</h1>
+<h1 align="left">hello 👋!</h1>
 <h4 align="left">Welcome to my github!🔥<br><br>
 I'm Zheng Wei 🐳<br><br>
 A Year 2 Business Analytics student from the National University of Singapore (NUS) </h4> 
