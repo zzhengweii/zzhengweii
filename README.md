@@ -13,3 +13,5 @@ Cuerently, a Year 2 Business Analytics student, specialising in machine learning
 <a href="mailto:owzhengwei.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzhengweii&layout=donut-vertical)](https://github.com/zzhengweii/github-readme-stats)
