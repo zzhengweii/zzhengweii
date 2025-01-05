@@ -14,5 +14,4 @@ Cuerently, a Year 2 Business Analytics student, specialising in machine learning
 </a> <br> <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzhengweii&layout=donut&theme=slateorange&count_private=true&v=3)](https://github.com/zzhengweii/github-readme-stats)
 
