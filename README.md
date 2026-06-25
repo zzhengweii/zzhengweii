@@ -1,7 +1,7 @@
 <h1 align="left">hello 👋!</h1>
 <h4 align="left">Welcome to my github!🔥<br><br>
 I'm Zheng Wei 🐳<br><br>
-Cuerently, a Year 3 Business Analytics student, specialising in machine learning and financial analytics, from the National University of Singapore (NUS) </h4> 
+Cuerently, a Final Year Business Analytics student, specialising in machine learning and financial analytics, from the National University of Singapore (NUS) </h4> 
 <h1 align="left">my interests 👀</h1>
 <text align="left">I have a keen interest in machine learning, data science, and data visualization. I enjoy exploring innovative ways to derive insights from data and create impactful visual narratives.</text>
 
